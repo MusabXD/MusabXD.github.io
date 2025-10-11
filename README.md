@@ -9,6 +9,4 @@ Through this process, I identify improvements such as enhanced input validation,
 
 ## Artifact One: Software Engineering and Design
 
-## Artifact Two: Algorithms and Data Structures
 
-## Artifact Three: Databases
