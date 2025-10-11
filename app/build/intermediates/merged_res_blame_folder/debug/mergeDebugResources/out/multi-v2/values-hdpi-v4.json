@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.zybooks.projectthree.app-mergeDebugResources-2:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\musab\\.gradle\\caches\\8.11.1\\transforms\\e461a274fcd8e5eeb8d790f691ab1545\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
