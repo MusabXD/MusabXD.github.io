@@ -5,3 +5,5 @@
 A code review is a structured evaluation of a project’s source code to ensure quality, consistency, and adherence to best practices. In this review, I analyze the structure and functionality of my InventoryApp and 3D Graphics Project, focusing on usability, efficiency, database design, and algorithmic performance.
 
 Through this process, I identify improvements such as enhanced input validation, UI modernization, cloud database integration, and collision detection in 3D environments. This review demonstrates my ability to assess and refine code using software engineering principles, secure coding practices, and innovative techniques that align with professional computer science standards.
+
+### First Artifact:
