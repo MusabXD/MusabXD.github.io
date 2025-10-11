@@ -7,11 +7,8 @@ A code review is a structured evaluation of a project’s source code to ensure 
 
 Through this process, I identify improvements such as enhanced input validation, UI modernization, cloud database integration, and collision detection in 3D environments. This review demonstrates my ability to assess and refine code using software engineering principles, secure coding practices, and innovative techniques that align with professional computer science standards.
 
----
 ## Artifact One: Software Engineering and Design
 
----
 ## Artifact Two: Algorithms and Data Structures
 
----
 ## Artifact Three: Databases
