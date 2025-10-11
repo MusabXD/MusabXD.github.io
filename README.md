@@ -15,5 +15,3 @@ Through this process, I identify improvements such as enhanced input validation,
 
 ---
 ## Artifact Three: Databases
-
----
