@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099062313835",
+    "project_id": "inventoryapp-a8b42",
+    "storage_bucket": "inventoryapp-a8b42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099062313835:android:ed8d2bc315db26ab3a822e",
+        "android_client_info": {
+          "package_name": "com.zybooks.projectthree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099062313835-gj7bjq7le11meuo7olfnhemoh1ldcjjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzn6U8DC5H9m6LW53G4f7TfzIPGptUS1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099062313835-gj7bjq7le11meuo7olfnhemoh1ldcjjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
