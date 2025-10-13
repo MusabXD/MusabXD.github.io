@@ -1,4 +1,4 @@
-Welcome to my CS Capstone ePortfolio. This portfolio showcases my journey through the Computer Science program at Southern New Hampshire University, highlighting my skills in **Software Design & Engineering**, **Algorithms & Data Structures**, and **Databases**. Each project below demonstrates my ability program, to enhance existing software, apply computer science principles, and deliver professional, secure, and valuable computing solutions.
+### Welcome to my CS Capstone ePortfolio. This portfolio showcases my journey through the Computer Science program at Southern New Hampshire University, highlighting my skills in **Software Design & Engineering**, **Algorithms & Data Structures**, and **Databases**. Each project below demonstrates my ability program, to enhance existing software, apply computer science principles, and deliver professional, secure, and valuable computing solutions.
 
 ---
 
@@ -9,6 +9,8 @@ Welcome to my CS Capstone ePortfolio. This portfolio showcases my journey throug
 A crucial step in the software development lifecycle, code review ensures quality, consistency, and adherence to standards. You can watch my code review session, where I walk through the initial state of my artifacts and discuss the plan for enhancements for each of the artifacts.
 
 ---
+
+# Portfolio Projects
 
 ## Project 1: Software Engineering and Design
 
@@ -32,3 +34,5 @@ This artifact is a mobile application originally developed for CS-360, where use
 
 View the artifact report and code [here](https://github.com/MusabXD/musabxd.github.io/tree/Software-Engineering-and-Design).
 
+
+View the artifact report and code [here](https://github.com/MusabXD/musabxd.github.io/tree/Algorithms-and-Data-Structures).
