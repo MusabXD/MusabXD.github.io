@@ -12,4 +12,23 @@ A crucial step in the software development lifecycle, code review ensures qualit
 
 ## Project 1: Software Engineering and Design
 
-The first artifact of this portfolio is a Inventory Manangement Android App, where users can login, add and remove items from an inventory list, add categories and put items into them, and sort the items by name or quantity.
+This artifact is a mobile application originally developed for CS-360, where users can login, add and remove items from an inventory list, add categories and put items into them, and sort the items by name or quantity. I enhanced it by adding new features to improve its usability and architecture.
+
+**Enhancements Made:**
+- Added inventory iyem **categories**.
+- Implemented **sorting** for items by name and quantity.
+- Introduced a **multi-select** feature for batch operations.
+- Refactored code for better **modularity and maintainability**.
+
+**Skills Demonstrated:**
+- UI/UX Design
+- Modular Software Architecture
+- Mobile Development (Android)
+- Problem Solving & Feature Integration
+
+**Aligned Course Outcomes:**
+- **Outcome 3:** Design and evaluate computing solutions using algorithmic principles and best practices.
+- **Outcome 4:** Use innovative techniques and tools to implement solutions that deliver value.
+
+View the artifact report and code [here](https://github.com/MusabXD/musabxd.github.io/tree/Software-Engineering-and-Design).
+
