@@ -8,6 +8,8 @@ Welcome to my CS Capstone ePortfolio. This portfolio showcases my journey throug
 
 A crucial step in the software development lifecycle, code review ensures quality, consistency, and adherence to standards. You can watch my code review session, where I walk through the initial state of my artifacts and discuss the plan for enhancements for each of the artifacts.
 
+---
+
 ## Project 1: Software Engineering and Design
 
 The first artifact of this portfolio is a Inventory Manangement Android App, where users can login, add and remove items from an inventory list, add categories and put items into them, and sort the items by name or quantity.
