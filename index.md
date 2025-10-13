@@ -2,7 +2,7 @@ Welcome to my CS Capstone ePortfolio. This portfolio showcases my journey throug
 
 ---
 
-## Code Review Video:
+### Code Review Video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EDz7XxoZi6Y?si=rxcjrrCz5GXlJdUd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -10,9 +10,9 @@ A crucial step in the software development lifecycle, code review ensures qualit
 
 ---
 
-# Portfolio Projects
+## Portfolio Projects
 
-## Project 1: Software Engineering and Design
+### Project 1: Software Engineering and Design
 **Enhanced Inventory Management Mobile App**
 
 This artifact is a mobile application originally developed for CS-360, where users can login, add and remove items from an inventory list, add categories and put items into them, and sort the items by name or quantity. I enhanced it by adding new features to improve its usability and architecture.
@@ -37,7 +37,7 @@ View the artifact report and code [here](https://github.com/MusabXD/musabxd.gith
 
 ---
 
-## Project 2: Algorithms & Data Structures
+### Project 2: Algorithms & Data Structures
 **3D Scene with Collision Detection**
 
 This artifact is an interactive 3D scene built with OpenGL and C++ from my CS-330 course, where you can move around in using keyboard and mouse controls. I enhanced it by implementing collision, a core algorithmic feature to increase realism.
@@ -61,7 +61,7 @@ View the artifact report and code [here](https://github.com/MusabXD/musabxd.gith
 
 ---
 
-## Project 3: Databases
+### Project 3: Databases
 **Cloud-Integrated Inventory Management App**
 
 For this enhancement, I took the same Inventory Management App from Project 1 and fundamentally upgraded its data layer to use modern, cloud-based technologies.
