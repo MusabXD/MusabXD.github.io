@@ -1,6 +1,4 @@
-[Professional Self-Assessment](#professional-self-assessment) | 
-[Code Review](#code-review-video) | 
-[Projects](#portfolio-projects)
+**Professional Self-Assessment**
 
 My journey through Southern New Hampshire University's Computer Science program has been a transformative experience in developing both the technical expertise and professional mindset required to excel as a software developer. This ePortfolio represents the culmination of that journey—a curated collection of projects that demonstrate my ability to design, develop, and enhance software solutions across multiple domains. Through rigorous coursework and practical application, I've cultivated a skill set that balances theoretical knowledge with real-world implementation, preparing me to deliver immediate value in professional software development roles.
 
