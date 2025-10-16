@@ -2,7 +2,7 @@
 
 My journey through Southern New Hampshire University's Computer Science program has been a transformative experience in developing both the technical expertise and professional mindset required to excel as a software developer. This ePortfolio represents the culmination of that journey—a curated collection of projects that demonstrate my ability to design, develop, and enhance software solutions across multiple domains. Through rigorous coursework and practical application, I've cultivated a skill set that balances theoretical knowledge with real-world implementation, preparing me to deliver immediate value in professional software development roles.
 
-## Building a Foundation Through Diverse Experiences
+**Building a Foundation Through Diverse Experiences**
 
 Throughout the program, I've engaged with the full spectrum of computer science fundamentals, from low-level systems programming to high-level application development. Beyond the artifacts presented here, my coursework included:
 
@@ -13,24 +13,24 @@ Throughout the program, I've engaged with the full spectrum of computer science 
 
 These experiences, combined with core courses in data structures, algorithms, and software engineering, have equipped me with a comprehensive understanding of what it takes to build robust, maintainable, and secure software systems.
 
-## Core Competencies and Professional Values
+**Core Competencies and Professional Values:**
 
-### Collaborating in Team Environments
+**Collaborating in Team Environments**
 My experience in CS-310 provided foundational teamwork skills through structured collaboration on software projects. I participated in code reviews, maintained changelogs, and learned to navigate the challenges of distributed team development. These experiences taught me that successful collaboration requires not only technical synchronization but also clear communication, mutual accountability, and respect for diverse perspectives and expertise.
 
-### Communicating with Stakeholders
+**Communicating with Stakeholders**
 Through multiple projects, including the development of a mechanic service order website, I've practiced translating technical concepts for non-technical audiences. I've learned to gather requirements effectively, present technical trade-offs in accessible terms, and create documentation that serves both development teams and end-users. This skill is particularly crucial when making design decisions that balance technical constraints with user needs and business objectives.
 
-### Data Structures and Algorithms
+**Data Structures and Algorithms**
 My coursework has provided deep exposure to algorithmic thinking and efficient data organization. From implementing complex data structures in CS-260 to applying optimization techniques in computational graphics, I've developed a systematic approach to problem-solving that considers time and space complexity, scalability, and maintainability. This foundation enables me to select appropriate solutions for specific problems while understanding the trade-offs involved.
 
-### Software Engineering and Database Design
+**Software Engineering and Database Design**
 The program has instilled in me the importance of software engineering principles—modular design, separation of concerns, and systematic testing. I've applied these principles across multiple languages and platforms, from mobile development with Android and SQLite to full-stack web applications. My database experience spans from relational design with SQL to modern NoSQL solutions, always with attention to data integrity, performance, and security.
 
-### Security-First Mindset
+**Security-First Mindset**
 Security considerations have been integrated throughout my education, particularly in secure coding courses where I learned to anticipate vulnerabilities and implement protective measures. I approach every project with an understanding that security is not a feature to be added but a fundamental consideration that must inform design decisions from the outset, whether implementing authentication systems, validating input, or protecting data at rest and in transit.
 
-## A Cohesive Portfolio Demonstrating Full-Stack Capabilities
+**A Cohesive Portfolio Demonstrating Full-Stack Capabilities:**
 
 The artifacts in this portfolio were carefully selected to demonstrate my range across different computer science domains while showing how these skills integrate in practice. Together, they tell a story of a developer who can:
 
@@ -40,7 +40,7 @@ The artifacts in this portfolio were carefully selected to demonstrate my range 
 
 While each artifact excels in its specific category, they collectively represent a comprehensive skill set ready for professional software development challenges. The enhancements I've made—from adding collision detection in 3D graphics to migrating databases to the cloud—demonstrate my ability to not just complete assignments but to critically evaluate, improve, and extend software systems using industry-relevant technologies and methodologies.
 
-## Moving Forward
+**Moving Forward**
 
 As I complete my degree and transition to professional practice, I carry with me both the technical skills demonstrated in this portfolio and the professional values cultivated throughout my education: collaboration through clear communication, engineering through principled design, and innovation through security-conscious implementation. I am confident in my ability to contribute meaningfully to software development teams and am excited to apply these skills to create valuable, reliable, and secure software solutions.
 
