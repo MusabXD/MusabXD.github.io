@@ -9,7 +9,7 @@ My journey through Southern New Hampshire University's Computer Science program 
 What surprised me most about this program wasn't just learning programming languages, but developing a comprehensive problem-solving mindset. Beyond the technical artifacts you'll see here, some of my most valuable learning came from courses that challenged me to think holistically:
 
 - **CS-310 (Collaboration)** taught me that the best software emerges from teamwork, code reviews, and respecting diverse approaches to problem-solving
-- **CS-405 (Secure Coding)** fundamentally changed how I write code—security became something I consider from the first line, not an afterthought
+- **CS-405 (Secure Coding)** fundamentally changed how I write code. Security became something I consider from the first line, not an afterthought
 - **CS-250 (Software Development Lifecycle)** gave me real-world experience with agile methodologies and the complete development process
 - **CS-350 (Emerging Systems)** exposed me to distributed systems and the challenges of concurrent programming
 
@@ -24,7 +24,7 @@ My work in CS-310 provided practical experience with the rhythms of professional
 Throughout multiple projects, I've practiced translating technical concepts for different audiences. Whether explaining technical trade-offs to non-technical stakeholders or creating documentation for development teams, I've learned to focus on what matters most to each audience. This skill proved crucial when designing user interfaces that balance technical constraints with user needs.
 
 **Data Structures and Algorithms**  
-My coursework provided deep exposure to algorithmic thinking—from implementing complex data structures in CS-260 to optimizing performance in computational graphics. I've developed a systematic approach to problem-solving that considers time and space complexity while understanding the practical trade-offs involved in design choices.
+My coursework provided deep exposure to algorithmic thinking, from implementing complex data structures in CS-260 to optimizing performance in computational graphics. I've developed a systematic approach to problem-solving that considers time and space complexity while understanding the practical trade-offs involved in design choices.
 
 **Software Engineering and Database Design**  
 The program instilled in me the importance of engineering principles like modular design, separation of concerns, and systematic testing. I've applied these across multiple platforms, from mobile development with Android to full-stack applications. My database experience spans from relational design with SQL to modern NoSQL solutions, always with attention to data integrity and performance.
@@ -46,7 +46,7 @@ The **Inventory Management App** enhancements show my focus on creating software
 
 The **3D Scene collision detection** demonstrates my ability to apply algorithmic thinking to create more immersive experiences. The process of implementing AABB collision detection taught me the value of choosing solutions that balance performance with practicality.
 
-The **Cloud database migration** represents my growth in thinking about software at scale. Moving from local storage to cloud synchronization required rethinking data architecture while maintaining security and performance—exactly the kind of challenge I'll face in professional environments.
+The **Cloud database migration** represents my growth in thinking about software at scale. Moving from local storage to cloud synchronization required rethinking data architecture while maintaining security and performance, exactly the kind of challenge I'll face in professional environments.
 
 **Looking Forward**
 
