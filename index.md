@@ -1,3 +1,5 @@
+----
+
 ## Professional Self-Assessment
 
 My journey through Southern New Hampshire University's Computer Science program has transformed how I approach software development. Over the past three years, I've evolved from writing basic programs to architecting full-stack applications with security and scalability in mind. This portfolio represents that growth, showcasing not just what I've built, but how I've learned to think like an engineer who balances technical excellence with real-world practicality.
