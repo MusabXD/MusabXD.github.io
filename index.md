@@ -71,7 +71,7 @@ A crucial step in the software development lifecycle, code review ensures qualit
 ### Project 1: Software Engineering and Design
 **Enhanced Inventory Management Mobile App**
 
-[![Project Screenshot](https://github.com/MusabXD/musabxd.github.io/blob/main/InventoryApp%20(Artifact%201).png)](https://github.com/MusabXD/musabxd.github.io/tree/Software-Engineering-and-Design#readme)
+[![Project Screenshot](https://github.com/MusabXD/musabxd.github.io/raw/main/InventoryApp%20(Artifact%201).png)](https://github.com/MusabXD/musabxd.github.io/tree/Software-Engineering-and-Design#readme)
 
 
 This artifact is a mobile application originally developed for CS-360, where users can add and remove items from an inventory list, add categories and put items into them, and sort the items by name or quantity. I enhanced it by adding new features to improve its usability and architecture.
