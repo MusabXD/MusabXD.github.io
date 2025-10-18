@@ -73,8 +73,7 @@ A crucial step in the software development lifecycle, code review ensures qualit
 
 [![Project Screenshot](https://github.com/MusabXD/musabxd.github.io/raw/Software-Engineering-and-Design/InventoryApp%20(Artifact%201).png)](https://github.com/MusabXD/musabxd.github.io/tree/Software-Engineering-and-Design#readme)
 
-
-This artifact is a mobile application originally developed for CS-360, where users can add and remove items from an inventory list, add categories and put items into them, and sort the items by name or quantity. I enhanced it by adding new features to improve its usability and architecture.
+This artifact is a mobile application originally developed for CS-360, where users can add and remove items from an inventory list. I enhanced it by adding new features to improve its usability and architecture. I made it possible to add categories and put items into them, and sort the items by name or quantity.
 
 **Enhancements Made:**
 - Added inventory **categories**.
