@@ -98,6 +98,9 @@ View the artifact report and code [here](https://github.com/MusabXD/musabxd.gith
 ### Project 2: Algorithms & Data Structures
 **3D Scene with Collision Detection**
 
+[![Project Screenshot](https://github.com/MusabXD/musabxd.github.io/raw/Algorithms-and-Data-Structures/Computer%20Graphics%203D%20Scene%20(Artifact%202).png
+)](https://github.com/MusabXD/musabxd.github.io/tree/Algorithms-and-Data-Structures#readme)
+
 This artifact is an interactive 3D scene built with OpenGL and C++ from my CS-330 course, where you can move around in using keyboard and mouse controls. I enhanced it by implementing collision detection, a core algorithmic feature to create a more immersive and realistic experience.
 
 **Enhancements Made:**
