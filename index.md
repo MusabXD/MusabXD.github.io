@@ -125,7 +125,11 @@ View the artifact report and code [here](https://github.com/MusabXD/musabxd.gith
 ### Project 3: Databases
 **Cloud-Integrated Inventory Management App**
 
-For this enhancement, I took the same Inventory Management App from Project 1 and fundamentally upgraded its data layer to use modern, cloud-based technologies.
+[![Project Screenshot](https://github.com/MusabXD/musabxd.github.io/raw/Databases/InventoryApp%20Database%20(Artifact%203).png)](https://github.com/MusabXD/musabxd.github.io/tree/Databases#readme)
+
+
+
+For this enhancement, I took the same Inventory Management App from Project 1 and fundamentally upgraded its data layer to use modern, cloud-based technologies, for both authentication and data storage. With these improvements, users can now log in and manage inventory seamlessly across multiple devices.
 
 **Enhancements Made:**
 - Migrated the local **SQLite** database to **Google Firebase Firestore**.
