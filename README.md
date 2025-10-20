@@ -89,3 +89,29 @@ public void sortItems(String sortBy, boolean ascending) {
 }
 ```
 
+### Challenges and Solutions
+
+**Challenge 1**: Maintaining smooth performance with large inventory lists
+
+- **Solution**: Implemented efficient RecyclerView patterns and optimized sorting algorithms
+
+**Challenge 2**: Ensuring data consistency during category operations
+
+- **Solution**: Added transaction support and proper error handling
+
+**Challenge 3**: Creating an intuitive multi-select interface
+
+- **Solution**: Implemented visual feedback and gesture controls familiar to Android users
+
+### Before and After
+
+**Original Version**
+- Flat list of items with basic add/delete functionality
+- No organizational capabilities
+- Limited to single-item operations
+
+**Enhanced Version**
+- Categorized inventory with tab navigation
+- Advanced sorting and filtering options
+- Batch operations for improved efficiency
+- Professional-grade user experience
