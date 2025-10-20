@@ -99,24 +99,24 @@ void moveCamera(glm::vec3 newPosition) {
 }
 ```
 
-### Algorithmic Trade-offs Considered
+## Algorithmic Trade-offs Considered
 
-**Option 1: Bounding Spheres**
+### Option 1: Bounding Spheres**
 - **Pros**: Simple math, uniform collision
 - **Cons**: Poor fit for rectangular objects, wasted space
 - **Decision**: Rejected due to poor object fitting
 
-**Option 2: Oriented Bounding Boxes (OBB)**
+### Option 2: Oriented Bounding Boxes (OBB)**
 - **Pros**: Perfect fit for rotated objects
 - **Cons**: Complex math, higher computational cost
 - **Decision**: Rejected due to complexity vs. benefit ratio
 
-**Option 3: Axis-Aligned Bounding Boxes (AABB)**
+### Option 3: Axis-Aligned Bounding Boxes (AABB)**
 - **Pros**: Good balance of accuracy and performance, simple implementation
 - **Cons**: Less precise for rotated objects
 - **Decision**: Selected - optimal for this project's needs
 
-### Challenges and Solutions
+## Challenges and Solutions
 **Challenge 1**: Maintaining real-time performance with multiple collision checks
 - **Solution**: Implemented efficient AABB algorithm with early termination
 
@@ -126,18 +126,18 @@ void moveCamera(glm::vec3 newPosition) {
 **Challenge 3**: Smooth collision response without camera jitter
 - **Solution**: Implemented pre-movement collision prediction
 
-### Before and After
+## Before and After
 
-**Original Version**
+### Original Version
 - Camera could pass through all objects
 - Unrealistic navigation experience
 - No physical presence in the 3D world
 
-**Enhanced Version**
+### Enhanced Version
 - Solid objects with proper collision boundaries
 - Immersive, realistic navigation
 - Professional-grade 3D interaction
 
-**Performance Analysis**
+## Performance Analysis
 - **Collision Check Time**: ~0.01ms per object (60 FPS maintained)
 - **Memory Overhead**: 24 bytes per bounding box (minimal)
